@@ -3,6 +3,7 @@
 Lightweight Fortnite Cronus Zen script featuring dual aim assist systems, ADS spam mechanics, and configurable oscillation controls for PS5 and Xbox players.
 
 📥 **Download Aimbot Script**
+
 <a href="https://www.cronuszenscripts.com/scripts/aimbot/?utm_source=affiliate&utm_medium=referral&utm_campaign=brian" target="_blank" rel="nofollow sponsored">Get the latest version here</a>
 ---
 
